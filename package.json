@@ -1,6 +1,6 @@
 {
   "name": "jquery-cli-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jquery cli service used @vue/cli-service",
   "repository": "https://github.com/zlab/jquery-cli-service",
   "main": "index.js",
